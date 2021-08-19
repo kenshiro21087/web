@@ -1,0 +1,40 @@
+body{
+
+}
+.header{
+    background-color: #ffe4;
+}
+header{
+    width: 790px;
+    magagin: ;0 auto
+    display: flex;
+    flex-direction: row;
+
+}
+nav{
+    margin-left: 30px;
+}
+ul{
+    display: flex;
+    flex-direction: row;    
+}
+li{
+    list-style: none;
+}
+#contents{
+    display: flex;
+    flex-direction: row;  
+}
+.sub{
+    margin-left: 20px;
+}
+aside img{
+    display: flex;
+    flex-direction: column; 
+   
+}
+#footer{
+    display: flex;
+    flex-direction: row;
+}
+
